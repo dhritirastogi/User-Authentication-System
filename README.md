@@ -107,8 +107,8 @@ user-authentication-system/
 Dhriti Rastogi
 
 ***Please be sure to check out my other repositories too!***
-- [Instagram Followers Analyzer](https://github.com/kevgon8/Instagram-Follower-Analyzer)
-- [To-Do List Application](https://github.com/kevgon8/To-Do-List-App)
+- [Instagram Followers Analyzer](https://github.com/dhritirastogi/Instagram-Followers-Analyzer)
+- [To-Do List Application](https://github.com/dhritirastogi/To-Do-List-App)
 
 ## Contact
 Email: dhritirastogi@gmail.com
